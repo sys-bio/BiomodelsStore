@@ -1,0 +1,1017 @@
+BIOMD0000001066 is not an SBML file
+
+BIOMD0000001067 is not an SBML file
+
+BIOMD0000001068 is not an SBML file
+
+BIOMD0000001069 is not an SBML file
+
+BIOMD0000001070 is not an SBML file
+
+BIOMD0000001071 is not an SBML file
+
+BIOMD0000001073 is not an SBML file
+
+BIOMD0000001074 is not an SBML file
+
+BIOMD0000001075 is not an SBML file
+
+BIOMD0000001076 is not an SBML file
+
+MODEL0318407497
+File is not a zip file
+
+MODEL0911139400
+File is not a zip file
+
+MODEL0911270009
+File is not a zip file
+
+MODEL0912040001
+File is not a zip file
+
+MODEL0912160002
+File is not a zip file
+
+MODEL0912160006
+File is not a zip file
+
+MODEL0912160007
+File is not a zip file
+
+MODEL1001180000
+File is not a zip file
+
+MODEL1003160000
+File is not a zip file
+
+MODEL1006230043
+File is not a zip file
+
+MODEL1007110000
+File is not a zip file
+
+MODEL1010090000
+File is not a zip file
+
+MODEL1012110000
+File is not a zip file
+
+MODEL1102100007
+File is not a zip file
+
+MODEL1103210000
+File is not a zip file
+
+MODEL1112170000
+File is not a zip file
+
+MODEL1112180000
+File is not a zip file
+
+MODEL1112190000
+File is not a zip file
+
+MODEL1112190001
+File is not a zip file
+
+MODEL1174288274
+File is not a zip file
+
+MODEL1203300000
+File is not a zip file
+
+MODEL1204070000
+File is not a zip file
+
+MODEL1302140000
+File is not a zip file
+
+MODEL1302210000
+File is not a zip file
+
+MODEL1303130002
+File is not a zip file
+
+MODEL1303130003
+File is not a zip file
+
+MODEL1303200000
+File is not a zip file
+
+MODEL1304150000
+File is not a zip file
+
+MODEL1304150001
+File is not a zip file
+
+MODEL1304230000
+File is not a zip file
+
+MODEL1306270000
+File is not a zip file
+
+MODEL1306270001
+File is not a zip file
+
+MODEL1308300000
+File is not a zip file
+
+MODEL1309040000
+File is not a zip file
+
+MODEL1309200000
+File is not a zip file
+
+MODEL1315592601
+File is not a zip file
+
+MODEL1410080001
+File is not a zip file
+
+MODEL1412050000
+File is not a zip file
+
+MODEL1412120000
+File is not a zip file
+
+MODEL1501290000
+File is not a zip file
+
+MODEL1502100000
+File is not a zip file
+
+MODEL1502100001
+File is not a zip file
+
+MODEL1502100002
+File is not a zip file
+
+MODEL1502100003
+File is not a zip file
+
+MODEL1503250000
+File is not a zip file
+
+MODEL1504020000
+File is not a zip file
+
+MODEL1505050000 is not an SBML file
+
+MODEL1505130000 is not an SBML file
+
+MODEL1505130001 is not an SBML file
+
+MODEL1506020000
+File is not a zip file
+
+MODEL1506190000
+File is not a zip file
+
+MODEL1508230000
+File is not a zip file
+
+MODEL1508230001
+File is not a zip file
+
+MODEL1508230002
+File is not a zip file
+
+MODEL1510060000
+File is not a zip file
+
+MODEL1601180000
+File is not a zip file
+
+MODEL1602040000
+File is not a zip file
+
+MODEL1602040001
+File is not a zip file
+
+MODEL1602040002
+File is not a zip file
+
+MODEL1603110000
+File is not a zip file
+
+MODEL1604100001
+File is not a zip file
+
+MODEL1604100002
+File is not a zip file
+
+MODEL1604100003
+File is not a zip file
+
+MODEL1604260000 is not an SBML file
+
+MODEL1604270003 is not an SBML file
+
+MODEL1606030000
+File is not a zip file
+
+MODEL1606080000
+File is not a zip file
+
+MODEL1607120000
+File is not a zip file
+
+MODEL1608080000
+File is not a zip file
+
+MODEL1608080001
+File is not a zip file
+
+MODEL1608080002
+File is not a zip file
+
+MODEL1608080003
+File is not a zip file
+
+MODEL1608080004
+File is not a zip file
+
+MODEL1608080005
+File is not a zip file
+
+MODEL1609190001
+File is not a zip file
+
+MODEL1610150000
+File is not a zip file
+
+MODEL1610150001
+File is not a zip file
+
+MODEL1611230000
+File is not a zip file
+
+MODEL1701090000
+File is not a zip file
+
+MODEL1701180001
+File is not a zip file
+
+MODEL1702210000
+File is not a zip file
+
+MODEL1702220000
+File is not a zip file
+
+MODEL1703080000
+File is not a zip file
+
+MODEL1704210000
+File is not a zip file
+
+MODEL1705160000
+File is not a zip file
+
+MODEL1705300000
+File is not a zip file
+
+MODEL1706140000
+File is not a zip file
+
+MODEL1706150000
+File is not a zip file
+
+MODEL1706150001
+File is not a zip file
+
+MODEL1706250000
+File is not a zip file
+
+MODEL1707190000
+File is not a zip file
+
+MODEL1707200000
+File is not a zip file
+
+MODEL1707280000
+File is not a zip file
+
+MODEL1708150000
+File is not a zip file
+
+MODEL1708150001
+File is not a zip file
+
+MODEL1709010000
+File is not a zip file
+
+MODEL1709010001
+File is not a zip file
+
+MODEL1709010002
+File is not a zip file
+
+MODEL1709010003
+File is not a zip file
+
+MODEL1709010004
+File is not a zip file
+
+MODEL1709010005
+File is not a zip file
+
+MODEL1709010006
+File is not a zip file
+
+MODEL1709010007
+File is not a zip file
+
+MODEL1709010008
+File is not a zip file
+
+MODEL1709060000
+File is not a zip file
+
+MODEL1709060001
+File is not a zip file
+
+MODEL1709070000
+File is not a zip file
+
+MODEL1709070001
+File is not a zip file
+
+MODEL1709070002
+File is not a zip file
+
+MODEL1709070003
+File is not a zip file
+
+MODEL1709070004
+File is not a zip file
+
+MODEL1709070005
+File is not a zip file
+
+MODEL1710110000
+File is not a zip file
+
+MODEL1711020001
+File is not a zip file
+
+MODEL1711250001
+File is not a zip file
+
+MODEL1712080002
+File is not a zip file
+
+MODEL1712080003
+File is not a zip file
+
+MODEL1712080004
+File is not a zip file
+
+MODEL1712210002
+File is not a zip file
+
+MODEL1712260001
+File is not a zip file
+
+MODEL1801030001
+File is not a zip file
+
+MODEL1801280001
+File is not a zip file
+
+MODEL1802010001
+File is not a zip file
+
+MODEL1802270001
+File is not a zip file
+
+MODEL1803020001
+File is not a zip file
+
+MODEL1803060001
+File is not a zip file
+
+MODEL1803300001
+File is not a zip file
+
+MODEL1804030001
+File is not a zip file
+
+MODEL1804050001
+File is not a zip file
+
+MODEL1804110001
+File is not a zip file
+
+MODEL1804110002
+File is not a zip file
+
+MODEL1804110003
+File is not a zip file
+
+MODEL1804110004
+File is not a zip file
+
+MODEL1804120001
+File is not a zip file
+
+MODEL1804120002
+File is not a zip file
+
+MODEL1804120003
+File is not a zip file
+
+MODEL1804230001 is not an SBML file
+
+MODEL1804230002 is not an SBML file
+
+MODEL1805170001 is not an SBML file
+
+MODEL1805300001
+File is not a zip file
+
+MODEL1806100001
+File is not a zip file
+
+MODEL1806100002
+File is not a zip file
+
+MODEL1806110001
+File is not a zip file
+
+MODEL1806110002
+File is not a zip file
+
+MODEL1807030001 is not an SBML file
+
+MODEL1807110001
+File is not a zip file
+
+MODEL1807170001
+File is not a zip file
+
+MODEL1807280001 is not an SBML file
+
+MODEL1808060001 is not an SBML file
+
+MODEL1808100001
+File is not a zip file
+
+MODEL1808120001
+File is not a zip file
+
+MODEL1808150003
+File is not a zip file
+
+MODEL1808200001
+File is not a zip file
+
+MODEL1809260001
+File is not a zip file
+
+MODEL1809260002
+File is not a zip file
+
+MODEL1810010001
+File is not a zip file
+
+MODEL1810020001
+File is not a zip file
+
+MODEL1810040001
+File is not a zip file
+
+MODEL1810120001 is not an SBML file
+
+MODEL1810160001
+File is not a zip file
+
+MODEL1810190001
+File is not a zip file
+
+MODEL1810260001
+File is not a zip file
+
+MODEL1810260002
+File is not a zip file
+
+MODEL1811090001
+File is not a zip file
+
+MODEL1811140001
+File is not a zip file
+
+MODEL1811150002
+File is not a zip file
+
+MODEL1811280001
+File is not a zip file
+
+MODEL1811280002
+File is not a zip file
+
+MODEL1811300001
+File is not a zip file
+
+MODEL1812110001
+File is not a zip file
+
+MODEL1812120001
+File is not a zip file
+
+MODEL1812120002
+File is not a zip file
+
+MODEL1812120003
+File is not a zip file
+
+MODEL1812150001
+File is not a zip file
+
+MODEL1812150002
+File is not a zip file
+
+MODEL1812160001
+File is not a zip file
+
+MODEL1812180001
+File is not a zip file
+
+MODEL1812270001
+File is not a zip file
+
+MODEL1901030001
+File is not a zip file
+
+MODEL1901140001
+File is not a zip file
+
+MODEL1901170001
+File is not a zip file
+
+MODEL1901170002
+File is not a zip file
+
+MODEL1901260001
+File is not a zip file
+
+MODEL1902080001
+File is not a zip file
+
+MODEL1902230001
+File is not a zip file
+
+MODEL1903130001
+File is not a zip file
+
+MODEL1903260002
+File is not a zip file
+
+MODEL1903260004
+File is not a zip file
+
+MODEL1903270001
+File is not a zip file
+
+MODEL1904060001
+File is not a zip file
+
+MODEL1904080001
+File is not a zip file
+
+MODEL1904120001
+File is not a zip file
+
+MODEL1904160001
+File is not a zip file
+
+MODEL1904170001 is not an SBML file
+
+MODEL1905070001 is not an SBML file
+
+MODEL1905080001
+File is not a zip file
+
+MODEL1905200001
+File is not a zip file
+
+MODEL1905240001
+File is not a zip file
+
+MODEL1906110001
+File is not a zip file
+
+MODEL1907060001
+File is not a zip file
+
+MODEL1907100002 is not an SBML file
+
+MODEL1907120001 is not an SBML file
+
+MODEL1907140002
+File is not a zip file
+
+MODEL1907140003
+File is not a zip file
+
+MODEL1907190001
+File is not a zip file
+
+MODEL1909100001
+File is not a zip file
+
+MODEL1909120002
+File is not a zip file
+
+MODEL1909200001
+File is not a zip file
+
+MODEL1909200002
+File is not a zip file
+
+MODEL1909200003
+File is not a zip file
+
+MODEL1910010001
+File is not a zip file
+
+MODEL1910090001
+File is not a zip file
+
+MODEL1910100001
+File is not a zip file
+
+MODEL1910160001
+File is not a zip file
+
+MODEL1910220001 is not an SBML file
+
+MODEL1910220002 is not an SBML file
+
+MODEL1911190002
+File is not a zip file
+
+MODEL1911200001
+File is not a zip file
+
+MODEL1911200002
+File is not a zip file
+
+MODEL1911200003
+File is not a zip file
+
+MODEL1912050001
+File is not a zip file
+
+MODEL1912060001
+File is not a zip file
+
+MODEL1912090005
+File is not a zip file
+
+MODEL2001030002 is not an SBML file
+
+MODEL2001080004 is not an SBML file
+
+MODEL2001080005 is not an SBML file
+
+MODEL2001130002
+File is not a zip file
+
+MODEL2001220001
+File is not a zip file
+
+MODEL2001290002
+File is not a zip file
+
+MODEL2002040001
+File is not a zip file
+
+MODEL2002050001 is not an SBML file
+
+MODEL2003020001 is not an SBML file
+
+MODEL2003140001
+File is not a zip file
+
+MODEL2003140002
+File is not a zip file
+
+MODEL2003160001 is not an SBML file
+
+MODEL2003250001
+File is not a zip file
+
+MODEL2003260001
+File is not a zip file
+
+MODEL2004130001
+File is not a zip file
+
+MODEL2004170002
+File is not a zip file
+
+MODEL2004220001
+File is not a zip file
+
+MODEL2004300001
+File is not a zip file
+
+MODEL2005140001
+File is not a zip file
+
+MODEL2005200001
+File is not a zip file
+
+MODEL2005290001 is not an SBML file
+
+MODEL2005290002 is not an SBML file
+
+MODEL2006010001 is not an SBML file
+
+MODEL2006030001
+File is not a zip file
+
+MODEL2006210002
+File is not a zip file
+
+MODEL2006260001
+File is not a zip file
+
+MODEL2006300002
+File is not a zip file
+
+MODEL2007110001 is not an SBML file
+
+MODEL2007150001 is not an SBML file
+
+MODEL2007150002 is not an SBML file
+
+MODEL2007190001
+File is not a zip file
+
+MODEL2008280001
+File is not a zip file
+
+MODEL2008290001
+File is not a zip file
+
+MODEL2008310001
+File is not a zip file
+
+MODEL2009160001
+File is not a zip file
+
+MODEL2010270002
+File is not a zip file
+
+MODEL2011030004
+File is not a zip file
+
+MODEL2011060001
+File is not a zip file
+
+MODEL2011080001
+File is not a zip file
+
+MODEL2011080002
+File is not a zip file
+
+MODEL2011080003
+File is not a zip file
+
+MODEL2011110001 is not an SBML file
+
+MODEL2011170001
+File is not a zip file
+
+MODEL2011180001
+File is not a zip file
+
+MODEL2012020001
+File is not a zip file
+
+MODEL2012030001
+File is not a zip file
+
+MODEL2012040003
+File is not a zip file
+
+MODEL2012090002
+File is not a zip file
+
+MODEL2012100001
+File is not a zip file
+
+MODEL2012150001
+File is not a zip file
+
+MODEL2012150002
+File is not a zip file
+
+MODEL2012150003
+File is not a zip file
+
+MODEL2012180001
+File is not a zip file
+
+MODEL2012180002
+File is not a zip file
+
+MODEL2012180003
+File is not a zip file
+
+MODEL2012180004
+File is not a zip file
+
+MODEL2012180005
+File is not a zip file
+
+MODEL2012180008
+File is not a zip file
+
+MODEL2012180009
+File is not a zip file
+
+MODEL2012180010
+File is not a zip file
+
+MODEL2012180011
+File is not a zip file
+
+MODEL2012180012
+File is not a zip file
+
+MODEL2012180013
+File is not a zip file
+
+MODEL2012180014
+File is not a zip file
+
+MODEL2012180015
+File is not a zip file
+
+MODEL2012180016
+File is not a zip file
+
+MODEL2012180017
+File is not a zip file
+
+MODEL2012180018
+File is not a zip file
+
+MODEL2012220001
+File is not a zip file
+
+MODEL2012220002
+File is not a zip file
+
+MODEL2012220003 is not an SBML file
+
+MODEL2101130001
+File is not a zip file
+
+MODEL2101130002
+File is not a zip file
+
+MODEL2101280001 is not an SBML file
+
+MODEL2102050001 is not an SBML file
+
+MODEL2102090002 is not an SBML file
+
+MODEL2102110001
+File is not a zip file
+
+MODEL2102240001
+File is not a zip file
+
+MODEL2103050002 is not an SBML file
+
+MODEL2103050003 is not an SBML file
+
+MODEL2103060001 is not an SBML file
+
+MODEL2103120001
+File is not a zip file
+
+MODEL2103180001 is not an SBML file
+
+MODEL2103300001
+File is not a zip file
+
+MODEL2103310001
+File is not a zip file
+
+MODEL2104080001
+File is not a zip file
+
+MODEL2104130001
+File is not a zip file
+
+MODEL2105030001 is not an SBML file
+
+MODEL2105230001
+File is not a zip file
+
+MODEL2106100001 is not an SBML file
+
+MODEL2106110001 is not an SBML file
+
+MODEL2107200001
+File is not a zip file
+
+MODEL2107270001
+File is not a zip file
+
+MODEL2108130001
+File is not a zip file
+
+MODEL2108190001
+File is not a zip file
+
+MODEL2109020001
+File is not a zip file
+
+MODEL2109070003
+File is not a zip file
+
+MODEL2109130012
+File is not a zip file
+
+MODEL2109140001 is not an SBML file
+
+MODEL2109300001 is not an SBML file
+
+MODEL2110010001 is not an SBML file
+
+MODEL2110250001 is not an SBML file
+
+MODEL2110260001 is not an SBML file
+
+MODEL2110270001 is not an SBML file
+
+MODEL2110280001
+File is not a zip file
+
+MODEL2111050001 is not an SBML file
+
+MODEL2111150001
+File is not a zip file
+
+MODEL2111150002
+File is not a zip file
+
+MODEL2111150003
+File is not a zip file
+
+MODEL2111200001
+File is not a zip file
+
+MODEL2111260001
+File is not a zip file
+
+MODEL2111260002 is not an SBML file
+
+MODEL2112030001
+File is not a zip file
+
+MODEL2112070001
+File is not a zip file
+
+MODEL2112140001
+File is not a zip file
+
+MODEL2112310001
+File is not a zip file
+
+MODEL2201260001
+File is not a zip file
+
+MODEL2201310001 is not an SBML file
+
+MODEL2201310002
+File is not a zip file
+
+MODEL2202160002 is not an SBML file
+
+MODEL2202170001 is not an SBML file
+
+MODEL2202170002 is not an SBML file
+
+MODEL2202170003 is not an SBML file
+
+MODEL2202170004 is not an SBML file
+
+MODEL2202170005 is not an SBML file
+
+MODEL2202170006 is not an SBML file
+
+MODEL2202170007 is not an SBML file
+
+MODEL2202170008 is not an SBML file
+
+MODEL2202170009 is not an SBML file
+
+MODEL2202170010 is not an SBML file
+
