@@ -13,7 +13,7 @@ The error log is written to 'error_log.txt' file.
 error_log = open('error_log.txt', 'w')
 
 # Download the SBML model from BioModels database using the model_id
-def download_biomodels(model_id):
+def download_biomodel(model_id):
     url = f'https://www.ebi.ac.uk/biomodels/search/download?models={model_id}'
     response = requests.get(url, stream=True)
     extract = zipfile.ZipFile(io.BytesIO(response.content))
@@ -37,10 +37,10 @@ if __name__ == '__main__':
     # Download all the models from BioModels database using the model_id
     for model_id in model_ids["models"]:
         try:
-            if f"{model_id}.xml" in os.listdir("biomodels"):
+            if f"{model_id}.xml" in os.listdir("biomodels") or "BIOMD" not in model_id:
                 print(f'{model_id} already downloaded')
                 continue
-            download_biomodels(model_id)
+            download_biomodel(model_id)
         except Exception as e:
             error_log.write(model_id + '\n')
             error_log.write(str(e) + '\n')
