@@ -16,16 +16,23 @@ error_log = open('error_log.txt', 'w')
 def download_biomodel(model_id):
     url = f'https://www.ebi.ac.uk/biomodels/search/download?models={model_id}'
     response = requests.get(url, stream=True)
+    if response.status_code != 200:
+        print(f'Error in downloading {model_id}')
+        error_log.write(f'Error in downloading {model_id}\n')
+        error_log.write('\n')
+        return
+    
     extract = zipfile.ZipFile(io.BytesIO(response.content))
     while extract.namelist()[0].endswith('.zip'):
         extract = zipfile.ZipFile(io.BytesIO(extract.read(extract.namelist()[0])))
-    print(extract.namelist())
     filename = extract.namelist()[0]
+
     if not filename.lower().endswith('.xml') and not filename.lower().endswith('.sbml'):
         print(f'{model_id} is not an SBML file')
         error_log.write(f'{model_id} is not an SBML file\n')
         error_log.write('\n')
         return
+    
     extract.extractall('biomodels')
     print(f'{model_id} downloaded successfully')
     extract.close()
@@ -38,7 +45,6 @@ if __name__ == '__main__':
     for model_id in model_ids["models"]:
         try:
             if f"{model_id}.xml" in os.listdir("biomodels") or "BIOMD" not in model_id:
-                print(f'{model_id} already downloaded')
                 continue
             download_biomodel(model_id)
         except Exception as e:
