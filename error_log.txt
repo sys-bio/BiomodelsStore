@@ -1,20 +1,50 @@
 BIOMD0000001066 is not an SBML file
 
+BIOMD0000001066
+[Errno 2] No such file or directory: 'biomodels/RF16.onnx'
+
 BIOMD0000001067 is not an SBML file
+
+BIOMD0000001067
+[Errno 2] No such file or directory: 'biomodels/zmays_trained_model.onnx'
 
 BIOMD0000001068 is not an SBML file
 
+BIOMD0000001068
+[Errno 2] No such file or directory: 'biomodels/doc2vec-model.onnx'
+
 BIOMD0000001069 is not an SBML file
+
+BIOMD0000001069
+[Errno 2] No such file or directory: 'biomodels/saved_model.onnx'
 
 BIOMD0000001070 is not an SBML file
 
+BIOMD0000001070
+[Errno 2] No such file or directory: 'biomodels/mean.Dockerfile'
+
 BIOMD0000001071 is not an SBML file
+
+BIOMD0000001071
+[Errno 2] No such file or directory: 'biomodels/Dockerfile.txt'
 
 BIOMD0000001073 is not an SBML file
 
+BIOMD0000001073
+[Errno 2] No such file or directory: 'biomodels/rforest_ROLP.onnx'
+
 BIOMD0000001074 is not an SBML file
+
+BIOMD0000001074
+[Errno 2] No such file or directory: 'biomodels/rf_ici.onnx'
 
 BIOMD0000001075 is not an SBML file
 
+BIOMD0000001075
+[Errno 2] No such file or directory: 'biomodels/reproduced_trained_models.zip'
+
 BIOMD0000001076 is not an SBML file
+
+BIOMD0000001076
+[Errno 2] No such file or directory: 'biomodels/MLP_model3.onnx'
 
