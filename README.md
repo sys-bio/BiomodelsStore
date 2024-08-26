@@ -10,5 +10,5 @@ It is required that you have a BioModel ID of the model you are interested in. C
 This takes a string corresponding to the model ID (ex: `"BIOMD0000000002"`) and returns the SBML model as a string. or other programming languages, support for a GitHub API is needed (OctoKit or PyGithub, etc). Look at the JavaScript Client for assistance in building your own client.
 
 ## Example usage
-- A simple HTML/js webpage that uses the JavaScript client is here: [https://github.com/sys-bio/BiomodelsStore/tree/main/examples]. See `example_usage.js` for the actual calls to the JavaScript client and BioModels cache.
+- A simple HTML/js webpage that uses the JavaScript client is here: [https://github.com/sys-bio/BiomodelsStore/tree/main/example]. See `example_usage.js` for the actual calls to the JavaScript client and BioModels cache.
 - A more developed application is [MakeSBML](https://sys-bio.github.io/makesbml/) which can download a Biomodel and translates it from SBML to Antimony.
