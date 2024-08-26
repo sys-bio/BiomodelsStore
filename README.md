@@ -7,7 +7,7 @@ A repository that stores BioModels [https://www.ebi.ac.uk/biomodels/]. This repo
 It is required that you have a BioModel ID of the model you are interested in. Currently we have a JavaScript client that makes the interaction straightforward. The file is at **`../searchClient/getBiomodels.js`**. Using this JavaScript client requires only one function call to get model information:
 - `const model_text = await getModel(modelID);`
 
-This takes a string corresponding to the model ID (ex: `"BIOMD0000000002"`) and returns the SBML model as a string. or other programming languages, support for a GitHub API is needed (OctoKit or PyGithub, etc). Look at the JavaScript Client for assistance in building your own client.
+This takes a string corresponding to the model ID (ex: `"BIOMD0000000002"`) and returns the SBML model as a string. For other programming languages, support for a GitHub API is needed (OctoKit, PyGithub, etc). Look at the JavaScript Client for assistance in building your own client.
 
 ## Example usage
 - A simple HTML/js webpage that uses the JavaScript client is here: [https://github.com/sys-bio/BiomodelsStore/tree/main/example]. See `example_usage.js` for the actual calls to the JavaScript client and BioModels cache.
