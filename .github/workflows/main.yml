@@ -6,7 +6,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 0 1,15 * *'
+    - cron: '0 1 1 * *'
 jobs:
   update-biomodel-store:
     runs-on: ubuntu-latest
@@ -25,3 +25,11 @@ jobs:
           python3 -m pip install --upgrade pip
           pip3 install -r requirements.txt
           python3 biomodels.py
+      - name: Check in updated and new SBML biomodels
+        run: |
+          date > generated.txt
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A
+          git commit -m "Updated cached sbml biomodels " 
+  
