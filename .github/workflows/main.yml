@@ -32,4 +32,5 @@ jobs:
           git config user.email github-actions@github.com
           git add -A
           git commit -m "Updated cached sbml biomodels " 
+          git push
   
