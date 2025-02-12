@@ -1,12 +1,18 @@
 name: Biomodel Store Update Workflow
 run-name: ${{ github.actor }} is updating the biomodel store
-# Update twice a month, on the 1st and 15th
+# Update once a month, on the 1st
 on:
   push:
     branches:
       - main
   schedule:
     - cron: '0 1 1 * *'
+  workflow_dispatch:
+    inputs:
+      update_cache:
+        description: 'Manual Update of BiomodelsStore'
+        required: false
+        default: 'No input needed'
 jobs:
   update-biomodel-store:
     runs-on: ubuntu-latest
