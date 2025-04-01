@@ -48,3 +48,58 @@ BIOMD0000001076 is not an SBML file
 BIOMD0000001076
 [Errno 2] No such file or directory: 'biomodels/MLP_model3.onnx'
 
+BIOMD0000001081 is not an SBML file
+
+BIOMD0000001081
+[Errno 2] No such file or directory: 'biomodels/iMsOB3b.omex'
+
+BIOMD0000001082 is not an SBML file
+
+BIOMD0000001082
+[Errno 2] No such file or directory: 'biomodels/iPC815.omex'
+
+BIOMD0000001083 is not an SBML file
+
+BIOMD0000001083
+[Errno 2] No such file or directory: 'biomodels/iJB785.omex'
+
+BIOMD0000001084 is not an SBML file
+
+BIOMD0000001084
+[Errno 2] No such file or directory: 'biomodels/p_thermo.omex'
+
+BIOMD0000001085 is not an SBML file
+
+BIOMD0000001085
+[Errno 2] No such file or directory: 'biomodels/iCN718.omex'
+
+BIOMD0000001086 is not an SBML file
+
+BIOMD0000001086
+[Errno 2] No such file or directory: 'biomodels/suppl_datasheet_s2_iCJ415.omex'
+
+BIOMD0000001087 is not an SBML file
+
+BIOMD0000001087
+[Errno 2] No such file or directory: 'biomodels/iKS1317.omex'
+
+BIOMD0000001088 is not an SBML file
+
+BIOMD0000001088
+[Errno 2] No such file or directory: 'biomodels/iHN446.omex'
+
+BIOMD0000001089 is not an SBML file
+
+BIOMD0000001089
+[Errno 2] No such file or directory: 'biomodels/253_2019_9630_MOESM3_ESM.omex'
+
+BIOMD0000001100 is not an SBML file
+
+BIOMD0000001100
+[Errno 2] No such file or directory: 'biomodels/RabbitPurkinjeAPModel.cellml'
+
+BIOMD0000001101 is not an SBML file
+
+BIOMD0000001101
+[Errno 2] No such file or directory: 'biomodels/Zhou2024_Updated-model.m'
+
