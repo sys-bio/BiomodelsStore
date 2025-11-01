@@ -43,8 +43,10 @@ BIOMD0000001075 is not an SBML file
 BIOMD0000001075
 [Errno 2] No such file or directory: 'biomodels/reproduced_trained_models.zip'
 
+BIOMD0000001076 is not an SBML file
+
 BIOMD0000001076
-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[Errno 2] No such file or directory: 'biomodels/MLP_model3.onnx'
 
 BIOMD0000001081 is not an SBML file
 
@@ -76,8 +78,10 @@ BIOMD0000001086 is not an SBML file
 BIOMD0000001086
 [Errno 2] No such file or directory: 'biomodels/suppl_datasheet_s2_iCJ415.omex'
 
+BIOMD0000001087 is not an SBML file
+
 BIOMD0000001087
-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[Errno 2] No such file or directory: 'biomodels/iKS1317.omex'
 
 BIOMD0000001088 is not an SBML file
 
